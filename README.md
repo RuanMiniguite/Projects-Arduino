@@ -49,11 +49,10 @@
 <h4>List Projects</h4>
 
 - [Porta com senha](https://github.com/RuanMiniguite/Projects-Arduino/tree/main/Porta%20com%20senha)
-
 - [Potenciometro Controlador de consumo](https://github.com/RuanMiniguite/Projects-Arduino/tree/main/Potenciometro%20Controlador%20de%20consumo)
-
 - [Potenciometro Digital](https://github.com/RuanMiniguite/Projects-Arduino/tree/main/Potenciometro%20digital)
 
+<br>
 
 ```
 Git Clone https://github.com/RuanMiniguite/Projects-Arduino.git
@@ -69,7 +68,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Author
 
 [<img alt="RuanMiniguite" src="https://github.com/RuanMiniguite.png?size=115" width="115"><br><sub>@RuanMiniguite</sub>](https://github.com/RuanMiniguite)
-
 
 
 <p align="right">(<a href="#header">back to top</a>)</p>
