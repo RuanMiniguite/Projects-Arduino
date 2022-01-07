@@ -7,7 +7,7 @@
 <div align="center" id="header">
 
   <a href="https://www.arduino.cc/">
-    <img src="assets/LogoArduino.png" alt="Logo" width="150" height="150">
+    <img src="assets/LogoArduino.png" alt="Logo" width="150">
   </a>
   <h3 align="center">Projects Arduino</h3>
 </div>
