@@ -48,7 +48,7 @@
 
 <h4>List Projects</h4>
 
-- [Calculadora](https://github.com/RuanMiniguite/Projects-Arduino/tree/main/Calculadoral)
+- [Calculadora](https://github.com/RuanMiniguite/Projects-Arduino/tree/main/Calculadora)
 - [Porta com senha](https://github.com/RuanMiniguite/Projects-Arduino/tree/main/Porta%20com%20senha)
 - [Potenciômetro Controlador de consumo](https://github.com/RuanMiniguite/Projects-Arduino/tree/main/Potenciometro%20Controlador%20de%20consumo)
 - [Potenciômetro Digital](https://github.com/RuanMiniguite/Projects-Arduino/tree/main/Potenciometro%20digital)
