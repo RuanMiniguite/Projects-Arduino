@@ -63,7 +63,7 @@ Git Clone https://github.com/RuanMiniguite/Projects-Arduino.git
 <!-- ============== LICENSE ============== -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- ============== AUTHOR ============== -->
