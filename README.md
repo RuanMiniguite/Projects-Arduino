@@ -69,7 +69,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- ============== AUTHOR ============== -->
 ## Author
 
-[<img alt="RuanMiniguite" src="https://github.com/RuanMiniguite.png?size=115" width="115"><br><sub>@RuanMiniguite</sub>](https://github.com/RuanMiniguite)
+[<img alt="RuanMiniguite" src="https://github.com/RuanMiniguite.png?size=300" width="115"><br><sub>@RuanMiniguite</sub>](https://github.com/RuanMiniguite)
 
 
 <p align="right">(<a href="#header">back to top</a>)</p>
