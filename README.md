@@ -7,7 +7,7 @@
 <!-- ============== HEADER ============== -->
 <div align="center" id="header">
 
-  ![PA](https://user-images.githubusercontent.com/82480542/215240473-7a95734d-ab63-4f83-b77f-575414b2d90c.png)
+  [![PA](https://user-images.githubusercontent.com/82480542/215240473-7a95734d-ab63-4f83-b77f-575414b2d90c.png)][Site-link]
 
   ![GitHub repo size][GitHub repo size-shields]
   ![GitHub language count][GitHub language count-shields]
@@ -86,7 +86,7 @@ This project is [MIT][GitHub License-link] licensed.
 
 <!-- ============== LINKs ============== -->
 <!-- Alterar link -->
-[Site-link]: https://github.com/RuanMiniguite/Projects-Arduino
+[Site-link]: https://www.arduino.cc/
 [GitHub License-link]: https://github.com/RuanMiniguite/Projects-Arduino/blob/0581f75509add3a03e05a3d054a954de87c84b9a/LICENSE
 
 <!-- Alterar caminho para repositorio [Template-Readme] -->
