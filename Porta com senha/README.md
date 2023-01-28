@@ -1,18 +1,7 @@
-<!-- ============== HEADER ============== -->
 <div align="center" id="header">
 
-  <a href="https://www.arduino.cc/">
-    <img src="/assets/LogoArduino.png" alt="Logo" width="150">
-  </a>
-  <h3 align="center">Porta com senha</h3>
-</div>
-
----
-
-## About the project
-
-<div align="center">
-
+  ![PA](https://user-images.githubusercontent.com/82480542/215240473-7a95734d-ab63-4f83-b77f-575414b2d90c.png)
+  # Porta com senha
   [![Site][Site-shields]][Site-link]
 
 </div>
@@ -21,15 +10,16 @@
 
 <div align="center">
   <img src="/assets/Porta_com_senha/Porta_com_senha.png" width=80%>
-<br><br>
 </div>
+
 
 ### Schematic 
 
 <div align="center">
-  <img src="/assets/Porta_com_senha/Schematic.png" width=80%>
-<br><br>
+  <img src="/assets/Porta_com_senha/Schematic.png" width=80%><br><br>
 </div>
+
+<p align="right">(<a href="https://github.com/RuanMiniguite/Projects-Arduino">back to home</a>)</p>
 
 [Site-link]: https://www.tinkercad.com/things/4KWmL0gaqOo
 [Site-shields]: https://img.shields.io/badge/Tinkercad-Live-292929?style=for-the-badge&logo=web&logoColor=white
